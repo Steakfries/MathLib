@@ -32,3 +32,9 @@ Vector4 Vector4::normalize()
 	temp.m_fX = m_fX / fmag;
 	temp.m_fY = m_fY / fmag;
 }
+
+void Hexacolor()
+{
+
+
+}
